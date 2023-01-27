@@ -7,4 +7,3 @@
 
 - Criar um notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação 
 
-git add <file:///C:/Users/letra/OneDrive/%C3%81rea%20de%20Trabalho/Python_Data_Science/Introdu%C3%A7%C3%A3o_Python.html>
