@@ -1,6 +1,6 @@
 # Data_Science_Alura:
 
-## [Python para Data Science](file:///C:/Users/letra/OneDrive/%C3%81rea%20de%20Trabalho/Python_Data_Science/Introdu%C3%A7%C3%A3o_Python.html)
+## ![Python para Data Science](file:///C:/Users/letra/OneDrive/%C3%81rea%20de%20Trabalho/Python_Data_Science/Introdu%C3%A7%C3%A3o_Python.html)
 
 - Fundamentos da linguagem Python como variáveis, funções, listas, condicionais e imports 
 
