@@ -1,6 +1,6 @@
 # Data_Science_Alura:
 
-## [Python para Data Science](https://colab.research.google.com/drive/1ZvG4vVo1PLj6kdig0Hv2TQ6W6Ve6fUit#scrollTo=7b2l90yvuBnm)
+## [Python para Data Science](https://colab.research.google.com/drive/1ZvG4vVo1PLj6kdig0Hv2TQ6W6Ve6fUit?usp=sharing)
 
 - Fundamentos da linguagem Python como variáveis, funções, listas, condicionais e imports 
 
