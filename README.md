@@ -7,4 +7,5 @@
 
 - Criar um notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação 
 
-<span style="color:red>Este texto é vermelho</span>
+<span style="color:red">Este texto é vermelho</span>
+
