@@ -7,5 +7,14 @@
 
 - Criar um notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação 
 
+## [Python para Data Science Numpy] (https://github.com/IgorPereiraPinto/Data_Science_Alura/blob/main/Python_Data_Science_Numpy.ipynb)
+- Conhecendo a biblioteca Numpy
+
+- Aprendendo as características da Linguagem Python e conhecendo o ambiente do Cientista de Dados
+
+- Trabalhando com Tipos, Variáveis e Expressões e manipulando Listas para agrupar dados
+
+- Aprendendo a formatar o output
+
 
 
