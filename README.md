@@ -25,5 +25,7 @@
 
 - Trabalhando com Built-in Functions do Python
 
+## Python Pandas: tratando e analisando dados: [Banco de Dados](https://colab.research.google.com/drive/1J8c_mOq-ZDtNNV7szGFYy0mfTVauH-wo), [Criando Agrupamentos](https://colab.research.google.com/drive/1yxhtIsuWoG0VXq1599l5tB76Ya0S_Mmo), [Criando Novas Variáveis](https://colab.research.google.com/drive/1HzhcCHAn_BiBQgwLPfAC7rl4eOn4tpWH), [Identificando e Removendo Outliers](https://colab.research.google.com/drive/1artZBFGzFymmcqNJgyZgfJw9qHI_zYLj), [Imóveis Residenciais](https://colab.research.google.com/drive/1mRKf3ww3ApDXxj9g4bs8I6BWW50KyGGr), [Seleções e Frequências](https://colab.research.google.com/drive/18XFfW1EebzQBrlJzeoxQmsiCOlFHE1Zc), [Tipos de Imóveis](https://colab.research.google.com/drive/1N4lDB1xc_QMT5kXLwaLydW_ZX6zVP_NX), [Tratamentos de Dados Faltantes](https://colab.research.google.com/drive/1_oHphqROaUx4RgGUdq89DCxLas2Q-Xdk)
+
 
 
