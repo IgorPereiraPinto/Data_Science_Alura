@@ -31,11 +31,11 @@
 
 - [Tratamentos de Dados Faltantes](https://colab.research.google.com/drive/1_oHphqROaUx4RgGUdq89DCxLas2Q-Xdk): Limpando e tratando dados faltantes
 
--  [Identificando e Removendo Outliers](https://colab.research.google.com/drive/1artZBFGzFymmcqNJgyZgfJw9qHI_zYLj): Remover outliers e criar novas variáveis
+-  [Identificando e Removendo Outliers](https://colab.research.google.com/drive/1artZBFGzFymmcqNJgyZgfJw9qHI_zYLj) e [Criando Novas Variáveis](https://colab.research.google.com/drive/1HzhcCHAn_BiBQgwLPfAC7rl4eOn4tpWH),: Remover outliers e criar novas variáveis
 
 -  [Seleções e Frequências](https://colab.research.google.com/drive/18XFfW1EebzQBrlJzeoxQmsiCOlFHE1Zc): Selecionar e gerar frequencias dos dados
 
-- Usar Python Pandas, Matplotlib, Jupyter e Anaconda: [Criando Agrupamentos](https://colab.research.google.com/drive/1yxhtIsuWoG0VXq1599l5tB76Ya0S_Mmo), [Criando Novas Variáveis](https://colab.research.google.com/drive/1HzhcCHAn_BiBQgwLPfAC7rl4eOn4tpWH),[Imóveis Residenciais](https://colab.research.google.com/drive/1mRKf3ww3ApDXxj9g4bs8I6BWW50KyGGr),[Tipos de Imóveis](https://colab.research.google.com/drive/1N4lDB1xc_QMT5kXLwaLydW_ZX6zVP_NX)
+- Usar Python Pandas, Matplotlib, Jupyter e Anaconda: [Criando Agrupamentos](https://colab.research.google.com/drive/1yxhtIsuWoG0VXq1599l5tB76Ya0S_Mmo), [Imóveis Residenciais](https://colab.research.google.com/drive/1mRKf3ww3ApDXxj9g4bs8I6BWW50KyGGr),[Tipos de Imóveis](https://colab.research.google.com/drive/1N4lDB1xc_QMT5kXLwaLydW_ZX6zVP_NX)
 
 
 
