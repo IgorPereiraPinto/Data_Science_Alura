@@ -16,5 +16,14 @@
 
 - Aprendendo a formatar o output
 
+## [Python para Data Science Pandas](https://github.com/IgorPereiraPinto/Data_Science_Alura/blob/main/Python_Data_Science_Numpy.ipynb)
+- Conhecendo a biblioteca dos Cientistas de Dados: Pandas
+
+- Trabalhando com Tuplas e Listas 
+
+- Encapsulando o código em funções e usando pacotes para organizar o código
+
+- Trabalhando com Built-in Functions do Python
+
 
 
