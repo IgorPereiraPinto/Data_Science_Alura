@@ -25,7 +25,7 @@
 
 - Trabalhando com Built-in Functions do Python
 
-## Python Pandas: tratando e analisando dados  
+## Python Pandas: Tratando e Analisando Dados  
 
 - [Banco de Dados](https://colab.research.google.com/drive/1J8c_mOq-ZDtNNV7szGFYy0mfTVauH-wo): Importar dados e exportar dataframes
 
